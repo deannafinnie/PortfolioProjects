@@ -1,1 +1,0 @@
-SELECT * FROM Club_Member_Info.Club_Member_Info;
